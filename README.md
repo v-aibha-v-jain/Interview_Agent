@@ -477,6 +477,3 @@ This project is open-source and available under the MIT License.
 - **Streamlit** for the excellent web framework
 - **LangChain** for AI orchestration tools
 
----
-
-**Made with ❤️ for better interviews**
